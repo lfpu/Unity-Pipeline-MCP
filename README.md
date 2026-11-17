@@ -1,7 +1,7 @@
 # Unity-Pipeline-MCP
 
 一个 stdio MCP 服务，通过 Unity 官方 `com.unity.pipeline` 包在 Editor 里启动的本地 HTTP API 来操作正在运行的 Unity Editor。
-
+搭配[AntCode](https://github.com/lfpu/AntCode)食用更美好!!!
 ## 工具
 
 | 工具 | 说明 |
